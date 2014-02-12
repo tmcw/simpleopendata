@@ -3,6 +3,7 @@ body {
     line-height:30px;
     font-size: 18px;
     color:#444;
+    margin:0;
 }
 
 .content {
@@ -18,5 +19,9 @@ h1, h2, h3 {
 }
 
 a {
-    color:#000080;
+    color:#001F3F;
+}
+
+.footer {
+    background:#DDDDDD;
 }
