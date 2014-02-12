@@ -32,7 +32,7 @@ If your text is minimally styled, prefer a simple format. **.txt** files are the
 
 **Never publish tabular data as PDF.** It's nearly impossible to read this data with a computer, and so potential users need to do a lot of manual work to parse or re-type the data.
 
-**The most effective format for publishing table data is [CSV](http://en.wikipedia.org/wiki/Comma-separated_values). CSV stands for 'Comma-separated values', and is an option for Microsoft Excel's exports.
+**The most effective format for publishing table data is [CSV](http://en.wikipedia.org/wiki/Comma-separated_values)**. CSV stands for 'Comma-separated values', and is an option for Microsoft Excel's exports.
 
 ### Geographical Information
 
