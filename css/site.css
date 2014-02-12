@@ -1,0 +1,22 @@
+body {
+    font-family: 'Karla', sans-serif;
+    line-height:30px;
+    font-size: 18px;
+    color:#444;
+}
+
+.content {
+    max-width:640px;
+    padding:10px;
+    margin:0 auto;
+}
+
+h1, h2, h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight:600;
+    color:#000;
+}
+
+a {
+    color:#000080;
+}

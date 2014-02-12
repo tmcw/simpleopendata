@@ -1,0 +1,9 @@
+---
+layout: default
+class: post
+---
+<div class="posts">
+  {% for post in site.categories.blog limit:3 %}
+  {% include listed-post.html %}
+  {% endfor %}
+</div>

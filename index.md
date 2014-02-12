@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Simple Open Data
 
 So you want to publish some open data? Cheers! - you're awesome. Here are some
@@ -56,5 +60,27 @@ If you want to require attribution, you can use the [ODC-BY](http://opendatacomm
 
 There's another type of license with the property of being 'share-alike': this means that combinations of your data with other data need to be shared under the same license as your data. While this alleviates some fears of freeloading on other people's work, it does so at a high cost - share-alike is tricky to define legally and can easily scare off creative uses. Thus it's not recommended to use share-alike licenses like [ODbL](http://opendatacommons.org/licenses/odbl/) for any new projects.
 
-## A Portal? Start Simple
+## Publishing
 
+Once you have open data, it's time to publish!
+
+It's best to start simple: don't build a portal or set up a server when all that you need is a simple download page. If you've just got a bit of data, try publishing & linking it in your existing CMS.
+
+The most important element of any publishing strategy is URLs: as a basic rule, try to make data accessible by reliable, easy-to-remember URLs that don't change over time.
+
+For many organizations, it's important that delivering open data is reliable & inexpensive. Budgeting a portal only aggravates this concern. An easy way to dodge these issues is by using an existing service like [Amazon S3](http://aws.amazon.com/s3/) that handles downloads and storage.
+
+Do you need an API? Create one if:
+
+* You have the staff, time, and funding to maintain the API once it has users.
+* You have more data than anyone would want to download at one time, and there's some clear distinction between types that people would want to use as a filter.
+
+Otherwise, you might want to simply publish the data as a raw download to avoid the complexity & responsibility of APIs.
+
+## Promotion
+
+You've published your data - congrats! You are enabling new, awesome ways to think. But how do you get people interested in it, and using it?
+
+**Find your peers and talk.** Now that you're working in the open, you'll find that other folks are doing similar stuff - the state over from yours has the same kind of dataset. Talk to them, link to them, and figure out how you can learn from each other.
+
+**Demonstrate how the data is awesome:** create a basic visualization or analysis that uses your data and links to your site. Mention it through your normal channels and the places where analysts hang out, like twitter & GitHub.
