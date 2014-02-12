@@ -50,11 +50,13 @@ Certain Esri data types like FileGDB, `.lyr`, and `.zlas` are intentionally encr
 
 Specifying a license is essential for any kind of distribution: without clear legal terms, nobody can feel safe enough to use data. Which license you choose depends on a number of factors:
 
-If the data is [a work of a US Federal government employee as part of their job, it's Public Domain](http://en.wikipedia.org/wiki/Work_of_the_United_States_Government), so there's no choice. Similarly [US laws and other edicts of government](http://en.wikipedia.org/wiki/Edict_of_government) can't be copyrighted.
+If the data is [a work of a US Federal government employee as part of their job, it's Public Domain](http://en.wikipedia.org/wiki/Work_of_the_United_States_Government) in the US, so there's no choice. Similarly [US laws and other edicts of government](http://en.wikipedia.org/wiki/Edict_of_government) can't be copyrighted in the US.
 
 If your data doesn't fall into one of those conditions, you probably have copyright over it, which means that the rights you grant and those you keep are your choice.
 
 The most liberal option if you are not a US Federal employee is to license the data under [CC0](http://creativecommons.org/publicdomain/zero/1.0/), an open license that replicates Public Domain status. This gives away most rights, like the right to demand attribution or prevent commercial usage, but it means that users are less likely to have legal doubts and more likely to use the data.
+
+Even if you are a US federal employee, applying CC0 to your work in non-US contexts while emphasizing its public domain status in the US can eliminate confusion and maximize worldwide reuse. This is very simple to do, as seen in two examples of federal agencies doing this: [Health and Human Services](https://github.com/HHS/ckanext-datajson#credit--copying), and the [Consumer Financial Protection Bureau](https://github.com/cfpb/qu/blob/master/CONTRIBUTING.md).
 
 If you want to require attribution, you can use the [ODC-BY](http://opendatacommons.org/licenses/by/summary/) license, which lets people use your data as long as they credit you as the original source.
 
