@@ -50,11 +50,11 @@ Certain Esri data types like FileGDB, `.lyr`, and `.zlas` are intentionally encr
 
 Specifying a license is essential for any kind of distribution: without clear legal terms, nobody can feel safe enough to use data. Which license you choose depends on a number of factors:
 
-If the data is [a work of a Federal government employee as part of their job, it's Public Domain](http://en.wikipedia.org/wiki/Work_of_the_United_States_Government), so there's no choice. Similarly [US laws and other edicts of government](http://en.wikipedia.org/wiki/Edict_of_government) can't be copyrighted.
+If the data is [a work of a US Federal government employee as part of their job, it's Public Domain](http://en.wikipedia.org/wiki/Work_of_the_United_States_Government), so there's no choice. Similarly [US laws and other edicts of government](http://en.wikipedia.org/wiki/Edict_of_government) can't be copyrighted.
 
 If your data doesn't fall into one of those conditions, you probably have copyright over it, which means that the rights you grant and those you keep are your choice.
 
-The most liberal option is to declare your work [Public Domain](http://en.wikipedia.org/wiki/Public_domain) or license it under [CC0](http://creativecommons.org/publicdomain/zero/1.0/), an open license that replicates the Public Domain terms for other countries. This gives away most rights, like the right to demand attribution or prevent commercial usage, but it means that users are less likely to have legal doubts and more likely to use the data.
+The most liberal option if you are not a US Federal employee is to license the data under [CC0](http://creativecommons.org/publicdomain/zero/1.0/), an open license that replicates Public Domain status. This gives away most rights, like the right to demand attribution or prevent commercial usage, but it means that users are less likely to have legal doubts and more likely to use the data.
 
 If you want to require attribution, you can use the [ODC-BY](http://opendatacommons.org/licenses/by/summary/) license, which lets people use your data as long as they credit you as the original source.
 
