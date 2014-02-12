@@ -38,7 +38,7 @@ If your text is minimally styled, prefer a simple format. **.txt** files are the
 
 Geospatial data formats are different for vector versus raster data, and different formats are better for different sizes of data.
 
-**For small vector data, use [GeoJSON](http://geojson.org/) or [KML](http://developers.google.com/kml/documentation/)**. These are simple, widely-adopted standards. Remember that these formats expect coordinates in the [WGS84](http://en.wikipedia.org/wiki/World_Geodetic_System) datum, which is easier to use for data consumers: so reproject before publishing.
+**For small vector data, use [GeoJSON](http://geojson.org/) or [KML](http://developers.google.com/kml/documentation/)**. These are simple, widely-adopted standards. Remember that these formats expect geographic coordinates in the [WGS84](http://en.wikipedia.org/wiki/World_Geodetic_System) datum, which is easier to use for data consumers: so reproject before publishing.
 
 **For larger vector data, publish as Shapefiles.**
 
