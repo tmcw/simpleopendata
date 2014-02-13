@@ -60,7 +60,7 @@ Even if you are a US federal employee, applying CC0 to your work in non-US conte
 
 If you want to require attribution, you can use the [ODC-BY](http://opendatacommons.org/licenses/by/summary/) license, which lets people use your data as long as they credit you as the original source.
 
-There's another type of license with the property of being 'share-alike': this means that combinations of your data with other data need to be shared under the same license as your data. While this alleviates some fears of freeloading on other people's work, it does so at a high cost - share-alike is tricky to define legally and can easily scare off creative uses. Thus it's not recommended to use share-alike licenses like [ODbL](http://opendatacommons.org/licenses/odbl/) for any new projects.
+There's another type of license with the property of being 'share-alike': this means that combinations of your data with other data need to be shared under the same license as your data. While this alleviates some fears of freeloading on other people's work, it makes it hard or impossible to mix your data with other data that is not published under compatible licenses. Thus it's not recommended to use share-alike licenses like [ODbL](http://opendatacommons.org/licenses/odbl/) for any new projects.
 
 ## Publishing
 
