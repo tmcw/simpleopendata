@@ -42,7 +42,7 @@ Geospatial data formats are different for vector versus raster data, and differe
 
 **For larger vector data, publish as Shapefiles.**
 
-**A good, simple format for distributing raster data is [GeoTIFF](http://en.wikipedia.org/wiki/GeoTIFF).** It's an open standard with many implementations.
+**A good, simple format for distributing raster data is [GeoTIFF](http://en.wikipedia.org/wiki/GeoTIFF).** It's an open standard with many implementations. For larger raster datasets and non-geographical array data, [NetCDF](https://en.wikipedia.org/wiki/NetCDF) is another good choice with wide support.
 
 Certain Esri data types like FileGDB, `.lyr`, and `.zlas` are intentionally encrypted and only supported by expensive Esri products, so they aren't recommended for open data distribution. Likewise, GeoPDF is not recommended because it's rarely implemented and also has legal restrictions.
 
