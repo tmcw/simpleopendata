@@ -1,5 +1,6 @@
 ---
 layout: default
+language: ja
 ---
 
 訳者注：このページは、[Simple Open Data](http://simpleopendata.com) のテキストを日本語訳したものです。間違いがあったら、[Hal Seki](http://twitter.com/hal_sk/)まで御連絡いただくか、[Github](https://github.com/codeforjapan/simpleopendata)よりPull Requestをお願いします。
