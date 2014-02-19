@@ -2,6 +2,8 @@
 layout: default
 ---
 
+訳者注：このページは、[Simple Open Data](http://simpleopendata.com) のテキストを日本語訳したものです。間違いがあったら、[Hal Seki](http://twitter.com/hal_sk/)まで御連絡いただくか、[Github](https://github.com/codeforjapan/simpleopendata)よりPull Requestをお願いします。
+
 # Simple Open Data
 
 あなたは、あなたのデータをオープンに公開したいと思っていますか？素晴らしいです！このページには、オープンデータを提供するためのシンプルで効果的な、いくつかの有益なヒントを提供しています。
