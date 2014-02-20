@@ -83,6 +83,8 @@ Otherwise, you will want to simply publish the data as a raw download to avoid t
 
 You've published your data - congrats! You are enabling new, awesome ways to think. But how do you get people interested in it, and using it?
 
+**Engage with your users.** Publishing your data is the start of a conversation with your users. Make sure it's easy for them to know where they can get in touch, ask questions, and share what they are doing with it. Whether it's a discussion list, an issue tracker or a web forum, put effort into shaping the conversations that happen there.
+
 **Find your peers and talk.** Now that you're working in the open, you'll find that other folks are doing similar stuff - the state over from yours has the same kind of dataset. Talk to them, link to them, and figure out how you can learn from one another.
 
 **Show how the data is awesome:** create a basic visualization or analysis that uses your data and links to your site. Mention it through your normal channels and the places where analysts hang out, like twitter & GitHub.
