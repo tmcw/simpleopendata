@@ -52,13 +52,13 @@ language: ja
 
 ライセンスを指定することは全ての提供方法において不可欠なことです。明確な法的条件なしには、誰も安心してそのデータを使うことはできません。どのライセンスを選択するかの判断には、数多くの要素を考慮する必要があります。
 
-米国では、もしそのデータが[アメリカ合衆国の従業員の作業で作られた場合には、パブリックドメイン扱いになります](http://en.wikipedia.org/wiki/Work_of_the_United_States_Government)ので、選択肢はありません。同様に [米国の法律や勅令によって作られたもの](http://en.wikipedia.org/wiki/Edict_of_government) に対しても著作権を主張することはできません。
+米国では、もしそのデータが[アメリカ合衆国職員の作業で作られた場合には、パブリックドメイン扱いになります](http://en.wikipedia.org/wiki/Work_of_the_United_States_Government)ので、選択肢はありません。同様に [米国の法律や勅令によって作られたもの](http://en.wikipedia.org/wiki/Edict_of_government) に対しても著作権を主張することはできません。
 
 もしあなたのデータがそれらの条件に当てはまらない場合、あなたは恐らくそのデータに対する著作権を保有しています。それはつまり、それらの権利を誰かに与えるか、あなたが持ち続けるかはあなたの選択次第ということを意味しています。
 
 あなたが米国政府職員でない場合、もっとも進歩的な選択は、そのデータを[CC0](http://creativecommons.org/publicdomain/zero/1.0/)(パブリックドメインと同様の条件のオープンライセンス)ライセンスで公開することです。このライセンスでは、データに対するほとんどの権利を放棄します。このときに放棄される権利には、例えばクレジット表記の記載を求めることや、データの商用利用を禁ずることなどがあげられます。ですが、このライセンスを選択することにより、データを利用する際の法的な懸念が払拭され、データが利用される可能性がより高まります。
 
-もしあなたが米国政府職員であったとしても、CC0を適用することにより、米国外においてもパブリックドメインの条件を明示できます。そのため、あなたのデータは、世界のどこであってもライセンス的な混乱なく、最大限の再利用ができるデータとなります。これは、[Health and Human Services](https://github.com/HHS/ckanext-datajson#credit--copying), そして [Consumer Financial Protection Bureau](https://github.com/cfpb/qu/blob/master/CONTRIBUTING.md) という2つの事例からも見て取れる通り、とてもシンプルな方法です。 
+もしあなたが米国政府職員であったとしても、CC0を適用することにより、米国外においてもパブリックドメインの条件を明示できます。そのため、あなたのデータは、世界のどこであってもライセンス的な混乱なく、最大限の再利用ができるデータとなります。これは、[Health and Human Services](https://github.com/HHS/ckanext-datajson#credit--copying), そして [Consumer Financial Protection Bureau](https://github.com/cfpb/qu/blob/master/CONTRIBUTING.md) という2つの事例からも見て取れる通り、とてもシンプルな方法です。
 
 もしあなたがクレジット表記を求めるのであれば、あなたは[ODC-BY](http://opendatacommons.org/licenses/by/summary/) ライセンスを利用できます。ODC-BY ライセンスを利用すると人々にあなたのデータをクレジットつきで利用してもらうことができます。
 
