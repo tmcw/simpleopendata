@@ -12,3 +12,6 @@ Want more details about some part of open data? Here are some great resources:
   suggestions about formats & precedent relevant to specific types of data
 * [Creative Commons](http://creativecommons.org/) has produced tested, well-explained
   licenses for creative works and data.
+
+Still have questions? [The U.S. Open Data Institute](http://usodi.org/)
+provides free guidance: [contact@usodi.org](mailto:contact@usodi.org) / <a href='tel:202-719-5315'>202-719-5315</a>
