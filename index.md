@@ -4,6 +4,8 @@ layout: default
 
 # Simple Open Data
 
+> Open data is data that can be freely used, reused and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike.
+
 So you want to publish some open data? Cheers! - you're awesome. Here are some
 helpful hints to make it simple and effective.
 
