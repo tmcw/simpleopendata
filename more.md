@@ -15,6 +15,7 @@ Want more details about some part of open data? Here are some great resources:
 
 Want more detail about certain opinions in the text?
 
+* [Clean Sheet: How to release data and statistics in spreadsheets](http://www.clean-sheet.org/)
 * [The Debate Over APIs and Open Government](http://techpresident.com/news/24829/free-data-debate-over-apis-and-open-government)
 * [MS-Word is Not a document exchange format](http://www.goldmark.org/netrants/no-word/attach.html)
 
