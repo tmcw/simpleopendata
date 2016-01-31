@@ -12,6 +12,7 @@ Want more details about some part of open data? Here are some great resources:
   suggestions about formats & precedent relevant to specific types of data
 * [Creative Commons](http://creativecommons.org/) has produced tested, well-explained
   licenses for creative works and data.
+* [Open Data Guide](http://opendata.guide/) by Mark J. Headd covers many topics in more detail.
 
 Want more detail about certain opinions in the text?
 
