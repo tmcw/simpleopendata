@@ -1,7 +1,7 @@
 destination: ./_site
 lsi:         false
 port: 4000
-pygments:    true
+ihighlighter:    pygments
 markdown:    rdiscount
 url:         http://www.simpleopendata.com/
 rdiscount:
