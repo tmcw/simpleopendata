@@ -79,7 +79,7 @@ Do you need an API? Create one if:
 * You have the staff, time, and funding to maintain the API once it has users.
 * You have more data than anyone would want to download at one time, and there's some clear distinction between types that people would want to use as a filter.
 
-Otherwise, you will want to simply publish the data as a raw download to avoid the complexity & responsibility of APIs.
+Otherwise, you will want to simply publish the data as a raw download to avoid the complexity & responsibility of APIs. There are over 2600 Open Data portals around the world (https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/).
 
 ## Promotion
 
