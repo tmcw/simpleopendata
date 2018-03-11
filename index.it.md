@@ -55,11 +55,7 @@ Alcuni tipi di dati Esri come FileGDB e `.zslas` sono intenzionalmente criptati 
 
 Specificare una licenza è essenziale per ogni tipo di distribuzione: senza chiari limiti legali, nessuno può essere sicuro di poter utilizzare i tuoi dati. Puoi scegliere una licenza in base a un certo numero di fattori:
 
-Se i dati sono frutto di un [lavoro di un impiegato del governo federale degli Stati Uniti, quei dati sono di pubblico dominio](http://en.wikipedia.org/wiki/Work_of_the_United_States_Government) negli Stati Uniti, quindi non c'è alcuna scelta. Allo stesso modo [leggi americane e atri editti](http://en.wikipedia.org/wiki/Edict_of_government) non possono essere soggetti a copyright negli Stati Uniti.
-
-Se i tuoi dati non rientrano in queste condizioni, probabilmente ne detieni il diritto d'autore, il che significa che sta a te scegliere quali diritti d'uso concedere. 
-
-L'opzione più altruista a tua disposizione è di rilasciare i tuoi dati sotto licenza [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.it), una licenza che replica lo status di Pubblico Dominio. Con questa licenza rinunci alla maggior parte dei diritti come il diritto di richiedere un'attribuzione di autore o di impedire l'uso commerciale dei dati. Questo significa che gli utilizzatori non avranno alcun dubbio riguardo al loro utilizzo e che quindi siano più propensi ad utilizzarli. 
+L'opzione più altruista a tua disposizione è di rilasciare i tuoi dati sotto licenza [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.it), una licenza che replica lo status di Pubblico Dominio. Con questa licenza rinunci alla maggior parte dei diritti come il diritto di richiedere un'attribuzione di autore o di impedire l'uso commerciale dei dati. Questo significa che gli utilizzatori non avranno alcun dubbio di natura legale riguardo all'utilizzo dei dati e che quindi siano più propensi ad utilizzarli. 
 
 Se vuoi richiedere l'attribuzione dei tuoi dati, puoi usare la licenza [ODC-BY](http://opendatacommons.org/licenses/by/summary/) che permette alle persone di usare i tuoi dati fino a che l'origine dei dati venga ricondotta a te.
 
