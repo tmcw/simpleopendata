@@ -1,5 +1,6 @@
 ---
 layout: default
+language: it
 ---
 
 # Open Data Facile
